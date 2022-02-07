@@ -14,7 +14,7 @@
 
 
 import * as url from "url";
-import * as portableFetch from "portable-fetch";
+import portableFetch from "portable-fetch";
 import { Configuration } from "./configuration";
 
 const BASE_PATH = "https://petstore.swagger.io *_/ ' \" =end -- \\r\\n \\n \\r/v2 *_/ ' \" =end -- \\r\\n \\n \\r".replace(/\/+$/, "");
